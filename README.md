@@ -1,4 +1,4 @@
-### Hello ~ 👋
+## Hello ~ 👋
 
 - 🔭 I’m an iOS developer.
 - 🌱 I’m currently learning Flutter & Backend.
