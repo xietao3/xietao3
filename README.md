@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**xietao3/xietao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xietao3&show_icons=true&icon_color=000000&text_color=718096&bg_color=000000&hide_title=true" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
